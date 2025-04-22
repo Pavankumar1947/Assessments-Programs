@@ -1,0 +1,23 @@
+1. Can you briefly introduce yourself ?
+2. What are three OOPs concepts used in your framework ? Please explain in detail ?
+3. What is the difference between ArrayList and LinkedList ?
+4. How do Put and Post methods differ in AP testing ? 
+5. Write a program to count and print the number of A's in a given String ?
+6. What is stale element exception ?Why does it occur, and how do you handle it ?
+7. Explain 401 and 500 error codes ?
+8. What is an Element Not found exception why does it occur and how do you handle it ?
+9. Write a program to find the factorial of a number ?
+10. Write a program to reverse a number ?
+11. What is the difference between List and Set in Java ?
+12. Write a program to count duplicate characters in a String ?
+13. What domain experience you have in your career so far ?
+14. How many team members have you led in your projects ?
+15. Can you explain polymorphism, along with examples of Method overloading and Method Overriding ?
+16. What are the tasks typically written under the @BeforeTest annotation ?
+17. How can you skip test case n Cucumber ?
+18. How do you rerun failed test cases in TestNG ?
+19. How do you group and run test cases in TestN ?
+20. What wold you include under the @BeforSuite annoation ? 
+21. Can you explain the different locators used in Selenium ?
+22. What is a collection in Java ?
+23. Explain the hierarchy of exceptions in Java ? 
