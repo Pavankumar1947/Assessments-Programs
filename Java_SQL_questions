@@ -1,0 +1,24 @@
+JAVA
+
+1. What is Exicuter Service?
+2. Diff between String Builder and String Buffer?
+3. Diff between Map and Set?
+4. What is Synchronized Key? when to use this ?
+5. What is Singleton Class?
+6. Diff btween Controller and @RestController ?
+7. How to communicate Microservice A to B , How it will secure ? 
+8. WAJP Frequency Of words using Streams?
+
+SQL
+
+1. What is Prepared Statements?
+2. What is Normalization?
+3. What is index? uses?
+4. WAQTD employees earning more than Department Avg
+
+	select e.emp_name, d.dept_name , e.salary
+	from employee e
+	JOIN department d ON d.dept_id = e.dept_id
+	where e.salary > ( select AVG(e2.salary)
+					 from employee e2
+					 where e2.dept_id = e1.dept_id);
